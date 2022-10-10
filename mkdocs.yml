@@ -1,0 +1,23 @@
+site_name: Norcry
+site_url: https://github.com/krikarls/NORCRY
+repo_url: https://krikarls.github.io/NORCRY
+
+theme:
+  name: material
+  features:
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: brown
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: brown
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
